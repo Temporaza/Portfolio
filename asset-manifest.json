@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e992f29c.css",
+    "main.js": "/Portfolio/static/js/main.3173febd.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Portfolio/static/js/453.ad6eb26e.chunk.js",
+    "static/media/me1.png": "/Portfolio/static/media/me1.b1a2974856e94ef4303c.png",
+    "static/media/fitquestWeb.webp": "/Portfolio/static/media/fitquestWeb.5035e5aa0a1526f2b439.webp",
+    "static/media/fitquestWeb2.webp": "/Portfolio/static/media/fitquestWeb2.4b659f186a6a195a5301.webp",
+    "static/media/fitquestWeb3.webp": "/Portfolio/static/media/fitquestWeb3.2def890a0f621b1b5b72.webp",
+    "static/media/ionic.png": "/Portfolio/static/media/ionic.40288e23595e5b980b1f.png",
+    "static/media/JS.png": "/Portfolio/static/media/JS.b35b06ee43eccfec3018.png",
+    "static/media/me.png": "/Portfolio/static/media/me.302ab5d34eea48b0b7d6.png",
+    "static/media/fitquestWeb4.webp": "/Portfolio/static/media/fitquestWeb4.39b1116e024e8af8b799.webp",
+    "static/media/react.png": "/Portfolio/static/media/react.404167651b40e37feacf.png",
+    "static/media/figma.png": "/Portfolio/static/media/figma.c832f29a7e5761ba8188.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.2f2132d4838335ce808e.png",
+    "static/media/css.png": "/Portfolio/static/media/css.0ca65abfc0c427bc3506.png",
+    "static/media/bootstrap.svg": "/Portfolio/static/media/bootstrap.d180fe4cd44732fd70b35f650a76b99c.svg",
+    "static/media/mongdb.svg": "/Portfolio/static/media/mongdb.1aca075d5cce0819fea7ea0902d94ce4.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.e992f29c.css.map": "/Portfolio/static/css/main.e992f29c.css.map",
+    "main.3173febd.js.map": "/Portfolio/static/js/main.3173febd.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Portfolio/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e992f29c.css",
+    "static/js/main.3173febd.js"
+  ]
+}
